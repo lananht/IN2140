@@ -39,6 +39,9 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 - Hard to determine processing requirements
 - Potentially huge finishing times and starvation (new shorter jobs arrive)
 
+### Preemtion
+
+
 ## 🧠Memory 
 
 ## Storage/Disk and File Systems 
