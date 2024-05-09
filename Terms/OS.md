@@ -18,6 +18,12 @@ Terminate a process: **kill()** or **exit()**
 ### 🧵Process vs. Threads 
 
 ### CPU Scheduling 
+Scheduling has deciding as their job. They get to decide which task that may use the resource, i.e., determines order by which requests are serviced, using different ✨algorithms✨.
+
+#### ✨Scheduling algorithms
+**FIFO**
+**Round Robind**
+**Shortest Job First**
 
 
 ## 🧠Memory 
