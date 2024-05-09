@@ -39,7 +39,16 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 - Hard to determine processing requirements
 - Potentially huge finishing times and starvation (new shorter jobs arrive)
 
-### Preemtion
+### Priority & Preemption illustrated
+(Sett inn bilde her) \
+
+
+### More algorithms 
+#### Rate Monotonic (RM) Scheduling
+
+#### Earliest Deadline First (EDF)
+
+
 
 
 ## 🧠Memory 
