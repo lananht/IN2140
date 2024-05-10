@@ -119,6 +119,9 @@ The memory is divided into static partitions at the systems initialization time
 - Require assignment of jobs to partitions
 
 #### Dynamic Partitioning 
+The memory is divided at run-time \
+- Partitions are created dynamically
+- And gets removed after doing their job
 
 
 
