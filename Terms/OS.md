@@ -59,7 +59,7 @@ Goal: managing the systems memory resources.
 ### 🏔️Memory Hierarchies
 (Sett inn bilde her) 
 
-### Addressing
+### 🏡Addressing
 Every posistion in memory has their own address, just like all houses has their own address. 
 #### Absolute addressing 
 - Often used by hardware
@@ -73,7 +73,7 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 - Relative addresses
 - Dynamic address translation
 
-### Memory Layout 
+### 🏙️Memory Layout 
 #### Code segment 
 - Reads  from the program, for example execve()
 - Usually read-only
@@ -90,7 +90,7 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 - Stack grows from hight to low address
 
 
-### Memory Management for Multiprogramming
+### 👨‍🔧Memory Management for Multiprogramming
 #### Swapping
 - We remove the running process from memory and place it on the disk, then swap with a process from the disk that now is going to run in memory.
 - Takes a lot of time!
