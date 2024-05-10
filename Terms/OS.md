@@ -91,11 +91,17 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 
 
 ### Memory Management for Multiprogramming
-#### Swapping 
+#### Swapping
+- We remove the running process from memory and place it on the disk, then swap with a process from the disk that now is going to run in memory.
+- Takes a lot of time!
 
 #### Overlays 
+- User decides whats in memory and load overlays during the running task 
 
-#### Segmentation 
+#### Segmentation and paging 
+- Memory splits up in small pieces
+- Pieces in same size (usually)
+- Swapping the pieces after own needs between the disk and memory
 
 
 
