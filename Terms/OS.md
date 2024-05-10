@@ -103,7 +103,11 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 - Pieces in same size (usually)
 - Swapping the pieces after own needs between the disk and memory
 
+### 🔪Partitioning 
+#### Fixed Partitioning
 
+
+#### Dynamic Partitioning 
 
 
 
