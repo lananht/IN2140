@@ -76,6 +76,10 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 ### Memory Layout 
 
 
+### Memory Management for Multiprogramming
+
+
+
 
 
 
