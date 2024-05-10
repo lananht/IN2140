@@ -61,16 +61,19 @@ Goal: managing the systems memory resources.
 
 ### Addressing
 Every posistion in memory has their own address, just like all houses has their own address. 
-### Absolute addressing 
+#### Absolute addressing 
 - Often used by hardware
 - Have reserved memory regions
 - Read data by referencing the byte numbers in memory \
 
 We cant predict which addresses a programs gets and we cant use addresses directly. 
-### Relative addressing 
+#### Relative addressing 
 - Addressing dynamic
 - Base addresses
 - Relative addresses
+- Dynamic address translation
+
+### Memory Layout 
 
 
 
