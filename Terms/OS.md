@@ -68,7 +68,9 @@ Every posistion in memory has their own address, just like all houses has their 
 
 We cant predict which addresses a programs gets and we cant use addresses directly. 
 ### Relative addressing 
-- 
+- Addressing dynamic
+- Base addresses
+- Relative addresses
 
 
 
