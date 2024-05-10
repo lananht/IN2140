@@ -40,7 +40,7 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 - Potentially huge finishing times and starvation (new shorter jobs arrive)
 
 ### Priority & Preemption illustrated
-(Sett inn bilde her) \
+(Sett inn bilde her) 
 
 
 ### More algorithms 
@@ -48,10 +48,24 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 
 #### Earliest Deadline First (EDF)
 
-
-
-
 ## 🧠Memory 
+### 💪Memory Management 
+Goal: managig the systems memory resources. \
+- Allocate space to process
+- Protect the memory regions
+- Provide a virtual view of memory giving the impression of having more bytes than availability
+- Controll different levels of memory based on a hierarchy
+
+### 🏔️Memory Hierarchies
+(Sett inn bilde her) 
+
+### Addressing
+
+
+
+
+
+
 
 ## Storage/Disk and File Systems 
 
