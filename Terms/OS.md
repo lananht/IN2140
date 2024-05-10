@@ -50,7 +50,7 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 
 ## 🧠Memory 
 ### 💪Memory Management 
-Goal: managig the systems memory resources. \
+Goal: managing the systems memory resources. 
 - Allocate space to process
 - Protect the memory regions
 - Provide a virtual view of memory giving the impression of having more bytes than availability
