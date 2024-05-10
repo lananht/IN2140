@@ -113,7 +113,10 @@ The memory is divided into static partitions at the systems initialization time
 - Large programs cannot be executed
 - Small programs dont use the entire partition
 ##### Unequal-sized partition
-  
+- Large programs can be loaded at once
+- Less internal fragmentation
+- One queue or one queue per partition
+- Require assignment of jobs to partitions
 
 #### Dynamic Partitioning 
 
