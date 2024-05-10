@@ -64,7 +64,7 @@ Every posistion in memory has their own address, just like all houses has their 
 #### Absolute addressing 
 - Often used by hardware
 - Have reserved memory regions
-- Read data by referencing the byte numbers in memory \
+- Read data by referencing the byte numbers in memory
 
 We cant predict which addresses a programs gets and we cant use addresses directly. 
 #### Relative addressing 
