@@ -74,9 +74,28 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 - Dynamic address translation
 
 ### Memory Layout 
+#### Code segment 
+- Reads  from the program, for example execve()
+- Usually read-only
+- Can be shared
+
+#### Data segment 
+- Global variables
+- Here is the heap
+- Dynamic allocated memory (malloc)
+- Heap grows from low to high address
+
+#### Stack segment 
+- Data used during a active program
+- Stack grows from hight to low address
 
 
 ### Memory Management for Multiprogramming
+#### Swapping 
+
+#### Overlays 
+
+#### Segmentation 
 
 
 
