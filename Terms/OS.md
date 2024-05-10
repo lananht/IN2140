@@ -105,7 +105,15 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 
 ### 🔪Partitioning 
 #### Fixed Partitioning
-
+- Easy to implement
+- Support swapping of processes
+  
+The memory is divided into static partitions at the systems initialization time \
+**Equal-sized partitions** \
+- Large programs cannot be executed
+- Small programs dont use the entire partition
+**Unequal-sized partition** \
+  
 
 #### Dynamic Partitioning 
 
