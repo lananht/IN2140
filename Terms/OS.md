@@ -40,7 +40,8 @@ This algorithm choose the shortes task (time based) and do their task first, bef
 - Potentially huge finishing times and starvation (new shorter jobs arrive)
 
 ### Priority & Preemption illustrated
-(Sett inn bilde her) 
+<img width="808" alt="Screenshot 2024-05-09 at 15 58 38" src="https://github.com/lananht/IN2140/assets/169359150/be188f6c-78a2-4a07-8ebd-364e6e4bb117">
+
 
 
 ### More algorithms 
@@ -57,7 +58,7 @@ Goal: managing the systems memory resources.
 - Controll different levels of memory based on a hierarchy
 
 ### 🏔️Memory Hierarchies
-(Sett inn bilde her) 
+
 
 ### 🏡Addressing
 Every posistion in memory has their own address, just like all houses has their own address. 
