@@ -109,7 +109,7 @@ We cant predict which addresses a programs gets and we cant use addresses direct
 - Easy to implement
 - Support swapping of processes
   
-The memory is divided into static partitions at the systems initialization time 
+The memory is divided into static partitions at the systems initialization time, the partitions size is made before letting programs use the memory.
 ##### Equal-sized partitions
 - Large programs cannot be executed
 - Small programs dont use the entire partition
@@ -123,6 +123,14 @@ The memory is divided into static partitions at the systems initialization time
 The memory is divided at run-time 
 - Partitions are created dynamically
 - And gets removed after doing their job
+The partiotions is divided while the programs work.
+##### Algorithms 
+- First fit
+- Next fit
+- Best fit
+
+#### The Buddy System 
+
 
 
 
