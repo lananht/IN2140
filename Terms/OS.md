@@ -131,7 +131,10 @@ The partiotions is divided while the programs work.
 - Best fit
 
 #### The Buddy System 
+A mix of dynamic partitioning and fixed partitioning. \
+Keyword: The power of 2
 
+### Segmentation 
 
 
 
