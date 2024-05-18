@@ -137,7 +137,14 @@ A mix of dynamic partitioning and fixed partitioning. \
 Keyword: The power of 2
 
 ### Segmentation 
+The size for memory is determined by a programmer. A process get dynamic allocated place in the memory. Different lenghts.
+**Pros:** \
+- Dynamic
+- No intert fragmentation
+- Less external fragmentation
 
+**Cons:** \ 
+- Adds a step to the adress translation
 
 
 
