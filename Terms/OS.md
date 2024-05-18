@@ -58,6 +58,8 @@ Goal: managing the systems memory resources.
 - Controll different levels of memory based on a hierarchy
 
 ### 🏔️Memory Hierarchies
+<img width="407" alt="Screenshot 2024-05-18 at 18 13 14" src="https://github.com/lananht/IN2140/assets/169359150/958a99cb-fea1-45d4-99ec-467738879e04">
+
 
 
 ### 🏡Addressing
