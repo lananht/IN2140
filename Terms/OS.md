@@ -122,7 +122,7 @@ The memory is divided into static partitions at the systems initialization time,
 #### Dynamic Partitioning 
 The memory is divided at run-time 
 - Partitions are created dynamically
-- And gets removed after doing their job
+- And gets removed after doing their job \
 The partiotions is divided while the programs work.
 ##### Algorithms 
 - First fit
