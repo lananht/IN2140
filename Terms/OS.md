@@ -146,6 +146,9 @@ The size for memory is determined by a programmer. A process get dynamic allocat
 **Cons:** 
 - Adds a step to the adress translation
 
+### Paging 
+
+
 
 
 
