@@ -147,6 +147,15 @@ The size for memory is determined by a programmer. A process get dynamic allocat
 - Adds a step to the adress translation
 
 ### Paging 
+A process gets its place in one or more memoryframes, where the size is decided by processes. \
+**Pros:**
+- No extern fragmentation
+
+**Cons:** 
+- Some intern fragmentation (based on framesize)
+
+###Virtual Memory
+
 
 
 
