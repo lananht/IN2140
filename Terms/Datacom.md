@@ -28,3 +28,7 @@ When a system is trying to reach out to a spesific system.
 - Hypercube (super computer)
 
 #### Broadcast channel 
+When a system is trying to reach out to many as possible. 
+
+### Networks tasks 
+
