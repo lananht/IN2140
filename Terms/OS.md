@@ -154,7 +154,7 @@ A process gets its place in one or more memoryframes, where the size is decided 
 **Cons:** 
 - Some intern fragmentation (based on framesize)
 
-###Virtual Memory
+### Virtual Memory
 
 
 
