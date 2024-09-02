@@ -6,3 +6,6 @@ Introduksjon til operativsystemer og datakommunikasjon.
 - [Terms in OS](https://github.com/lananht/IN2140/blob/main/Terms/OS.md)
 - [Terms in Data Communication](https://github.com/lananht/IN2140/blob/main/Terms/Datacom.md)
 
+## Home exam (UDP)
+- 
+
