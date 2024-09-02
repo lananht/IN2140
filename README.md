@@ -7,5 +7,5 @@ Introduksjon til operativsystemer og datakommunikasjon.
 - [Terms in Data Communication](https://github.com/lananht/IN2140/blob/main/Terms/Datacom.md)
 
 ## Home exam (UDP)
-- 
+- [Home exam 2023](https://github.com/lananht/IN2140/tree/main/Exam/in2140-v24-he)
 
