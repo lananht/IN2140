@@ -1,7 +1,7 @@
 # 💻IN2140
 Introduksjon til operativsystemer og datakommunikasjon. 
 
-## 🤔Where to find 
+## Syllabus
 - [OS PDF](https://github.com/lananht/IN2140/blob/main/Syllabus/os.pdf)
 - [Data communication PDF](https://github.com/lananht/IN2140/blob/main/Syllabus/datacommunication.pdf)
 
