@@ -1,5 +1,5 @@
 # 💻IN2140
-Introduksjon til operativsystemer og datakommunikasjon. 
+Introduction to operating systems and data communication
 
 ## Syllabus
 - [OS PDF](https://github.com/lananht/IN2140/blob/main/Syllabus/os.pdf)
